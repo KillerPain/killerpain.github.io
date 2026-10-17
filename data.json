@@ -1,0 +1,20 @@
+[
+    {
+        "title": "Цифровой кодекс",
+        "number": "255-VIII",
+        "year": 2026,
+        "in_force": true
+    },
+    {
+        "title": "Гражданский кодекс (Общая часть)",
+        "number": "268-XIII",
+        "year": 1994,
+        "in_force": true
+    },
+    {
+        "title": "Закон «О кибербезопасности»",
+        "number": "418-V",
+        "year": 2015,
+        "in_force": true
+    }
+]
