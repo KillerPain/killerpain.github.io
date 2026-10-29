@@ -28,3 +28,5 @@ VALUES ('2-116/2026', 'ТОО Сигма', 'взыскание долга', 7000
 UPDATE cases SET status = 'выиграно' WHERE number = '2-102/2026'
 
 DELETE FROM cases WHERE number = '2-116/2026'
+
+SELECT * FROM lawyers WHERE experience > 5 AND city = 'Almaty' ORDER BY experience DESC
